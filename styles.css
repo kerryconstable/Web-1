@@ -1,23 +1,21 @@
 body {
-    background-color: azure;
+    background-color: aliceblue
 }
-
-section h3 {
-    font-size: 25px
+h1 {
+    font-size: 52px
 }
-section h3 {
-   color: darkblue
+h1 {
+    color: rgba(0, 78, 255, 0.55)
 }
-section-two {
-    font-size: 14px
+h2 {
+    color: cornflowerblue
 }
-section-three {
-    font-size: 8px 
+h2 {
+    font-size: 23px
 }
-section-h2 {
-    color: #657ba2
-    
+li {
+    color: #ba36b0
 }
-
-
-
+a {
+    color: darkblue
+}
