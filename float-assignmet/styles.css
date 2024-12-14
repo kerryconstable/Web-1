@@ -1,0 +1,92 @@
+body{
+    background-color: yellow;
+}
+.green-container{
+    background-color: #00e700;
+    display: block;
+    height: 150px;
+    width: 450px;
+    padding: 15px;
+    margin: 0 auto;
+    float: center;   
+}
+
+.box-one{
+    background-color: #0ceaf4;
+    display: block;
+    height: 150px;
+    width: 150px;
+    text-align: center;
+    float: left;
+}
+
+.inline-block-element{
+    display: inline-block;
+    height: 100px;
+    width: 150px;
+}
+.box-two{
+    background-color: #debf9f;
+    display: block;
+    height: 150px;
+    width: 150px;
+    text-align-last: center;
+    float: right;
+}
+
+.blue-container{
+    background-color: #6692b6;
+    margin: 0 auto;
+    padding: 15px;
+    display: flex;
+    width: 450px;
+    height: 400px;
+}
+.box-three{
+    background-color: whitesmoke;
+    display: block;
+    height: 150px;
+    width: 150px;
+    text-align: center;
+    float:left;   
+}
+
+.box-four{
+    background-color: black;
+    display: block;
+    height: 150px;
+    width: 150px;
+    text-align-last: center;
+    float: right;
+    color: aliceblue;
+    
+}
+
+.box-five{
+    background-color: #ef8931;
+    position: absolute;
+    margin-top:200px;
+    height: 150px;
+    width: 450px;
+    text-align: center;   
+}
+
+.burgundy-container{
+    background-color: #7c2222;
+    display: block;
+    width: 450px;
+    height: 400px;
+    margin: 0 auto;
+    padding: 15px;
+    color: aliceblue;
+}
+
+.box-six{
+    background-color: #6c139a;
+    display: block;
+    height: 150px;
+    width: 150px;
+    text-align-last: center;
+    margin: 10px;   
+    float: left;
+}
