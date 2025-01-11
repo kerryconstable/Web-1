@@ -1,0 +1,63 @@
+
+body {
+    background-color: bisque
+}
+
+.type1 {
+    color: aquamarine;
+    font-family: "Itim", cursive;
+     font-weight: 300;
+}
+
+.type2 {
+   font-family: "Rubik Wet Paint", system-ui;
+        font-weight:100;
+    letter-spacing: 1px;        
+}
+
+.type3 {
+    font-family: "Danfo", serif;
+    font-weight: 500;
+    letter-spacing: 9px;        
+}
+
+
+.type4 {
+     font-family: "Lora", serif;
+    font-size: 3em;
+    line-height: 3.0;
+}
+
+.type5 {
+    font-family: "Merriweather", serif;
+    text-align-last: center;
+}
+
+.type6 {
+   font-family: "Josefin Sans", sans-serif;
+}
+
+
+.type7 {
+    font-family: "Roboto Condensed", sans-serif;
+}
+
+.type8 {
+    font-family: "Poppins", serif;
+}
+
+.type9 {
+     font-family: "Roboto Condensed", sans-serif;
+}
+
+.type10 {
+    font-family: "Roboto Condensed", sans-serif;
+}
+    
+
+
+
+
+
+
+

@@ -1,0 +1,42 @@
+body{
+    background-color:#bfd5e8;
+}
+
+p{
+   max-width:1000px;
+    margin: 25px auto;
+}
+
+.box-one, .box-three, .box-four{
+    width: 100px;
+    height: 100px;
+    background-color: cadetblue;
+    display: inline-block;
+}
+.box-two{
+    width: 60px;
+    height: 60px;
+    background-color: cadetblue;
+    display: inline-block; 
+    padding: 20px;
+}
+
+.box-three{
+    width: 60px;
+    height: 60px;
+    background-color: cadetblue;
+    display: inline-block; 
+    padding: 20px;
+}
+.box-four {
+    width: 40px;
+    height: 40px;
+    background-color: cadetblue;
+    display: inline-block; 
+    padding: 20px;
+    border: 10px solid black;  
+    margin: 0 20px;
+}
+.box-four{
+    margin: 0 20px;
+}
