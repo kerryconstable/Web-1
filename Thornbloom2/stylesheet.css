@@ -1,0 +1,178 @@
+
+body{
+    background-color:#fffffc;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    padding: 20px;
+    border-bottom: 8px solid #0e206f;
+}
+
+.box-one, .box-two, .box-three, .box-four, .box-five
+{
+    width: 40px;
+    height: 12px;
+    display: inline-block;
+    padding: 15px;
+    margin: 0 25px; 
+    font-size: 20px
+}
+
+.banner{
+    width: 800px;
+    height: 250px;
+    background-image:url(images/banner-img.jpg);
+    text-align-last: center;
+    font-size: 20px;
+    color: white;
+    margin-top: 8px; 
+    background-repeat:no-repeat;
+    background-position-x:center;
+    background-size: 800px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.welcome h1{
+    font-size: 35px;
+    text-decoration: underline;
+    color:#0e206f;
+    padding: 5px;
+    text-align: center; 
+}
+.welcome p {
+    text-align: center;
+    font-size: 14px;
+}
+
+.buttons{
+    padding: 20px;
+    margin-left: 300px;
+    display: flex;
+}
+
+.about-us{
+    width: 150px;
+    color: #fffffc;
+    background-color: #0e206f;
+    padding: 10px;
+    display: inline-block;
+    border: 5px solid #0e206f;
+    text-align: center;
+}
+   
+.shop-now{
+    background-color:#fffffc;
+    color: navy;
+    width: 150px;
+    border: 5px solid #0e206f;
+    padding: 5px;
+    display: inline-block;
+    text-align-last: center;    
+}
+    
+.two-column img {
+    object-fit: cover;
+    flex-grow: 1;
+  
+}
+
+.two-column h2{
+    color: navy;
+    text-decoration: underline;
+    padding-left: 10px;
+}
+
+.two-column {
+    display:flex;
+    gap: 24px;
+    font-size: 14px;
+    padding:10px;
+    
+}
+
+.two-column div {
+    flex-grow: 1;
+    text-align: center;
+    
+}
+
+.three-column img {
+    object-fit: cover;
+    flex-grow: 1;  
+    float: right;
+}
+
+.three-column {
+    display:flex;
+    gap: 24px;
+    font-size: 14px;
+    padding: 10px;
+}
+
+.three-column h2{
+    color: navy;
+    text-decoration: underline; 
+    margin-left: 35px;
+    padding-right: 5px;
+    text-align: center;
+}
+
+.footer{
+    background-color:#D3D3D3;
+    flex-direction: column;   
+}
+
+.footer img{
+    height: 30px;
+    width: 80px;
+    padding-top: 15px;
+    margin-left: 10px;
+}
+.p-1{
+    font-size: 15px;
+    float: right;
+    margin-right: 10px;
+}
+
+.p-2{
+    font-size: 12px;
+    margin-left: 10px;   
+}
+
+.img-two{
+    float: right;
+    margin-right: 10px;    
+}
+
+.p-3{
+    font-size: 8px;
+    text-align: center;
+
+
+
+
+
+
+
+
+  
+
+    
+   
+
+    
+
+
+
+
+
+
+
+
