@@ -18,15 +18,15 @@ section h2, h3{
     height: 2px;
     background-color: #0eb274;
     display: inline-block; 
-    padding: 36px;
+    padding: 60px;
     border: 5px solid #c8e337;  
     margin: 0 20px; 
 }
 .image-1, .image-2{
     width: 400px;
     height: 400px;
-    margin-left: 150px;
-    margin-top: 10px; 
+    margin-left: 300px;
+    margin-top: 40px; 
     border: double 10px;
     border-color: #eeef1e;
     border-radius: 20px;
